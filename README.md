@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nick2496/nick2496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Sarthak, a junior web developer specialised in front-end development.
 :books: Graduated with a Bachelor in Computer Science and Engineering, I have keen interest towards web technologies
