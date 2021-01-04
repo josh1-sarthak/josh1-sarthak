@@ -7,8 +7,10 @@ I'm Sarthak, a junior web developer specialised in front-end development. \
 :tv: I love watching indie movies \
 :basketball: Basketball being my favorite sport 
 
-I can be found at: \
-:link: [linkedin](www.linkedin.com/in/nick2496) \
+You can find me on [![LinkedIn][1]][2] \
 :mailbox: sarthakjoshi2496@gmail.com 
 
-Here is a link to my portfolio- [portfolio](nick2496.github.io/portfolio)
+Here is a link to my portfolio-[portfolio](https://nick2496.github.io/portfolio)
+
+[1]: https://i.stack.imgur.com/gVE0j.png
+[2]: https://www.linkedin.com/in/nick2496
