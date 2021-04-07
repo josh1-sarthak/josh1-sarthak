@@ -2,9 +2,9 @@
 
 
 I'm Sarthak, a junior web developer specialised in front-end development. \
-:books: Graduated with a Bachelor in Computer Science and Engineering, I have keen interest towards web technologies \
+:books: Graduated with a Bachelor degree in Computer Science and Engineering, I have keen interest towards web technologies \
 :globe_with_meridians: Besides coding, I'm curious about geography and places \
-:tv: I love watching indie movies \
+:tv: I have fascination towards indie genre, documentary style filmography, and thrillers. \
 :basketball: Basketball being my favorite sport 
 
 You can find me on [![LinkedIn][1]][2] \
