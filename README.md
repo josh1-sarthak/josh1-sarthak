@@ -13,4 +13,4 @@ You can find me on [![LinkedIn][1]][2] \
 Here is a link to my portfolio-[portfolio](https://josh1-sarthak.github.io/portfolio)
 
 [1]: https://i.stack.imgur.com/gVE0j.png
-[2]: https://www.linkedin.com/in/nick2496
+[2]: https://www.linkedin.com/in/josh1-sarthak
