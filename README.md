@@ -9,7 +9,7 @@ My work mostly comprise of JavaScript/TypeScript stack but I'm very much keen an
 You can find me on [![LinkedIn][1]][2] \
 :mailbox: sarthakjoshi2496@gmail.com 
 
-Here is a link to my portfolio-[@josh1-sarthak](https://josh1-sarthak.github.io)
+Here is a link to my **portfolio**-[@josh1-sarthak](https://josh1-sarthak.github.io)
 
 [1]: https://i.stack.imgur.com/gVE0j.png
 [2]: https://www.linkedin.com/in/josh1-sarthak
