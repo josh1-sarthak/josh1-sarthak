@@ -2,7 +2,7 @@
 
 
 I'm Sarthak, a mid-level software engineer specialised in front-end development. \
-:books: Graduated with a Bachelor degree in Computer Science and Engineering, I have keen interest towards web technologies \
+:books: Graduated with a Bachelor degree in Computer Science and Engineering, I have keen interest towards web technologies 
 
 My work mostly comprise of JavaScript/TypeScript stack but I'm very much keen and interested to explore other areas also like backend and cloud.
 
