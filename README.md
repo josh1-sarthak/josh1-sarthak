@@ -10,7 +10,7 @@ I'm Sarthak, a junior web developer specialised in front-end development. \
 You can find me on [![LinkedIn][1]][2] \
 :mailbox: sarthakjoshi2496@gmail.com 
 
-Here is a link to my portfolio-[portfolio](https://josh1-sarthak.github.io/portfolio)
+Here is a link to my portfolio-[portfolio](https://josh1-sarthak.github.io)
 
 [1]: https://i.stack.imgur.com/gVE0j.png
 [2]: https://www.linkedin.com/in/josh1-sarthak
