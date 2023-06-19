@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-I'm Sarthak, a junior web developer specialised in front-end development. \
+I'm Sarthak, a mid-level software engineer specialised in front-end development. \
 :books: Graduated with a Bachelor degree in Computer Science and Engineering, I have keen interest towards web technologies \
-:globe_with_meridians: Besides coding, I'm curious about geography and places \
-:tv: I have fascination towards indie genre, documentary style filmography, and thrillers. \
-:basketball: Basketball being my favorite sport 
+
+My work mostly comprise of JavaScript/TypeScript stack but I'm very much keen and interested to explore other areas also like backend and cloud.
 
 You can find me on [![LinkedIn][1]][2] \
 :mailbox: sarthakjoshi2496@gmail.com 
